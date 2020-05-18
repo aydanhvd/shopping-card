@@ -1,0 +1,91 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Les Beiges",
+        "price": 50
+
+        ,
+        "color": "#449c6d",
+        "image": "https://www.chanel.com/images///w_0.55,h_0.55,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_320/les-beiges-healthy-glow-bronzing-cream-390-soleil-tan-bronze-universel-1oz--packshot-default-185390-8824180899870.jpg",
+        "desc": "Maybelline Color Show Kohl Liner is the hottest new way to create statement eyes!The brightest colors. The easiest glide. Creamy, rich color has never \nbeen this precise!"
+    }, {
+        "id": 2,
+        "name": "Camélias D’eau",
+        "price": 82,
+        "color": "#64fb04",
+        "image": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_620/camelias-d-eau-lip-palette-camelias-d-eau-0-17oz--packshot-default-151690-8824734482462.jpg",
+        "desc": "Get swept away by our drop-dead gorgeous Sweet Cheeks Blush Palette. This collection features eight highly pigmented and buttery-smooth colors that flawlessly suit any skin tone. Perfect for everyone from the pro on the go to the budding beauty guru, our irreplaceable set brings together a variety of exclusive shades in both matte and shimmery finishes. It’s true--we’ve got a serious blush crush!"
+    }, {
+        "id": 3,
+        "name": "Gabrielle Chanel",
+        "price": 190,
+        "color": "#2b10d8",
+        "image": "https://www.chanel.com/images///q_100/q_auto,f_jpg,fl_lossy,dpr_2/w_620/gabrielle-chanel-body-lotion-set-1pce-packshot-default-100469-8824207376414.jpg",
+        "desc": "Create natural-looking contours, sun-kissed cheeks and a gorgeous, lit-from-within glow with our new Cheek Contour Duos. Available in six silky shade combinations, each luxurious compact makes it easy to perfect your complexion on the go."
+    }, {
+        "id": 4,
+        "name": "Strictly Chic",
+        "price": 21,
+        "color": "#7652ef",
+        "image": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw7fa3d736/ProductImages/Eyes/Gel_Liner_And_Smudger/gellinerandsmudger_main.jpg?sw=390\u0026sh=390\u0026sm=fit",
+        "desc": "Add a touch of color with our creamy and extremely pigmented Stick Blush! Available in eight rich shades! Apply and receive the perfect glow every day!"
+    }, {
+        "id": 5,
+        "name": "Rouge allure camélia",
+        "price": 57,
+        "color": "#6ca2d6",
+        "image": "https://www.chanel.com/images/w_0.38,h_0.38,c_crop/f_auto,w_512,h_512/rouge-allure-camelia-exclusive-creation-lip-colour-327-rouge-allure-camelia-blanc-0-12oz--packshot-default-151327-8822315352094.jpg",
+        "desc": "Indulge your cravings with our Whipped Lip \u0026 Cheek Soufflé. Our two-in-one mousse can be used to precisely line lips and on the apples of your cheeks for a soft, natural flush. Achieve a delicious wash of color with a matte finish using this creamy and multipurpose formula."
+    }, {
+        "id": 6,
+        "name": "Whipped Chic Duo",
+        "price": 90,
+        "color": "#df9357",
+        "image": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y0715100.jpg",
+        "desc": "Rosy Glow reacts to the moisture in the skin to bring a delicate flush of colour to the cheeks. The fresh and luminous color upon application develops into a rosy blush to suit each individual complexion for an incredibly natural, custom healthy glow that lasts all day."
+    }, {
+        "id": 7,
+        "name": "Juice - Ocean",
+        "price": 43,
+        "color": "#067917",
+        "image": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y0716250.jpg",
+        "desc": "Proactive actuating architecture"
+    }, {
+        "id": 8,
+        "name": "Lip Glow",
+        "price": 10,
+        "color": "#9e4f9b",
+        "image": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y0880550_112016.jpg",
+        "desc": "Dior creates its first cheek and lip blush to create a flush of pink on the skin"
+    }, {
+        "id": 9,
+        "name": "L.A. Lights",
+        "price": 55,
+        "color": "#39a619",
+        "image": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw5b50439f/ProductImages/Face/Mosaic_Powder_Blush/800897124533_mosaicpowderblush_highlighter_main.jpg?sw=390\u0026sh=390\u0026sm=fit",
+        "desc": "Pros in our L.A. photo studio bring the sun to the set with this ultra-flattering palette. Two tonal shades of long-wearing, richly pigmented blush team up with a perfectly curated highlighter to recreate naturally diffused light, leaving you with a radiant, lit-from-within West Coast glow. Make the most of your face shape while you adjust rosiness to match any look, occasion or season."
+    }, {
+        "id": 10,
+        "name": "Baked to Sheer Perfection",
+        "price": 16,
+        "color": "#50387d",
+        "image": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwfdfb0cd6/ProductImages/Face/Baked_Blush/800897824181_bakedblush_fullonfemme_main.jpg?sw=390\u0026sh=390\u0026sm=fit",
+        "desc": "This medley of 9 matte and shimmery colors creates a flush of color and dazzling glow for every skin tone. Use to highlight enhance brighten and bronze. Each mosaic of color blends beautifully with magical results"
+    },
+    {
+        "id": 11,
+        "name": "Rouge Allure Velvet",
+        "price": 114,
+        "color": "#449c6d",
+        "image": "https://www.chanel.com/images///w_0.55,h_0.55,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_620/rouge-allure-velvet-luminous-matte-lip-colour-trio-set-3x0-12oz--packshot-default-149130-8822410346526.jpg",
+        "desc": "Created by Lucia Pica for Les Ornements de CHANEL Holiday 2019 Collection, this exclusiveeyeshadow palette features four satin-finish shades in a range of earth tones to highlight, define and intensify. Embossed with a limited-edition ornamental motif."
+    },
+    {
+        "id": 12,
+        "name": "Gardénia",
+        "price": 3800, 
+        "color": "#50347d",
+        "image": "https://www.chanel.com/images///w_0.80,h_0.80,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_620/gardenia-les-exclusifs-de-chanel-parfum-grand-extrait-30-4fl-oz--packshot-default-120900-8804067016734.jpg",
+        "desc": "The lush, gardenia-infused fragrance Coco Chanel created in 1924 was an ode to the flower closest in character to her beloved camellia. Its storied heritage is further elevated by this grand presentation —— a limited-edition, deluxe grand flacon; a treasure for Parfum connoisseurs and fragrance collectors alike."
+    }]
+}
